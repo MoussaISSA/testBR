@@ -1,0 +1,10 @@
+create modele
+create login url (end-point)
+create view, serializer
+get user data (email/password) from request
+check if email/password are valide (in data base)
+if user exist return data
+
+// Front
+get user data use ngModel
+send data to API via httpClient
